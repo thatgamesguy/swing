@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>41723</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>short wind sound.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>41727</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>on_death.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>41948</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>bg_music.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>41987</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>on_jump_quieter.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
